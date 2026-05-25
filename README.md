@@ -1,4 +1,4 @@
-# Olá, eu sou o Daniel Nogueira! 👋
+# Olá, eu sou Daniel Nogueira! 👋
 
 🎓 Concludente em **Análise e Desenvolvimento de Sistemas** (Anhanguera) · Técnico em Informática (Senac Rio)  
 💻 Desenvolvedor com foco em **back-end**, **automação** e interesse crescente em **Dados e IA**  
