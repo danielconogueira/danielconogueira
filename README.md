@@ -1,6 +1,6 @@
 # Olá, eu sou Daniel Nogueira! 👋
 
-🎓 Concludente em **Análise e Desenvolvimento de Sistemas** (Anhanguera) · Técnico em Informática (Senac Rio)  
+🎓 Graduado em **Análise e Desenvolvimento de Sistemas** (Anhanguera) · Técnico em Informática (Senac Rio)  
 💻 Desenvolvedor com foco em **back-end**, **automação** e interesse crescente em **Dados e IA**  
 📍 Itaboraí, Rio de Janeiro — Brasil  
 🔍 Buscando minha primeira oportunidade profissional em TI
@@ -36,6 +36,7 @@
 ## 📜 Certificações
 
 - 🏅 **Técnico em Informática** — Senac Rio (2023)
+- 🎓 **Tecnólogo em Análise e Desenvolvimento de Sistemas** - Anhanguera (2026)
 - 🌐 **Networking Essentials** — Cisco Networking Academy (2023)
 - ☕ **Java Cloud Native Bootcamp** — Bradesco / DIO · 90h (2025)
 - 🗄️ **Administrando Banco de Dados** — Fundação Bradesco · 15h (2026)
